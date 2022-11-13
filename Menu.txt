@@ -1,6 +1,6 @@
 # Menu-Ristorante-Develhope
 
---- MENÙ DI CARNE ---
+------ MENÙ DI CARNE ------
 
 --- PRIMI PIATTI ---
 
@@ -16,35 +16,53 @@ Risotto pere e gorgonzola.................................9€
 
 Risotto al barbera e gorgonzola..........................10€
 
+--- SECONDI ---
+
+Tocchetti di canguro con sale grosso e olio ...... € 12 (200g)
+
+Hamburger di scottona ............................ € 10 (250g)
+
+Hamburger di zembra .............................. € 15 (200g) 
+
+Tagliere di suino (Hamburger, salsiccia e costata) € 16  (200g)
+
+Pancia di suino .................................. € 14 (200g)
+
+
 --- MENÙ DI DOLCI ---
 
 SOUFFLÈ DUE LUNE...............€5,50
-Soufflé* al cioccolato, gelato al fiordilatte, cioccolato croccante, topping al cioccolato e granella di nocciole
+Soufflé* al cioccolato, gelato al fiordilatte, cioccolato croccante, 
+topping al cioccolato e granella di nocciole
 
 AMERICAN PANCAKE...............€5,50
-Due soffici pancakes* ricoperti da frutti di bosco* in salsa, sciroppo d'acero, panna montata e zucchero a velo
+Due soffici pancakes* ricoperti da frutti di bosco* in salsa, sciroppo 
+d'acero, panna montata e zucchero a velo
 
 CHEESECAKE...............€5,50
-Cremosa Cheesecake*, servita con frutti di bosco* in salsa, gelato al fiordilatte, cornachos (tortillas* di grano dorate) e zucchero a velo
+Cremosa Cheesecake*, servita con frutti di bosco* in salsa, gelato al 
+fiordilatte, cornachos (tortillas* di grano dorate) e zucchero a velo
 
 COPPA ALASKA...............€5,50
-Gelato al fiordilatte con Nutella®, cioccolato croccante, panna montata, topping al cioccolato e granella di nocciole 
+Gelato al fiordilatte con Nutella®, cioccolato croccante, panna montata, 
+topping al cioccolato e granella di nocciole 
 
 COPPA BAILEYS...............€5,50
-Gelato al fiordilatte e cioccolato, Baileys® Irish Cream, panna montata, granella di nocciola e cacao
+Gelato al fiordilatte e cioccolato, Baileys® Irish Cream, panna montata, 
+granella di nocciola e cacao
 
 COPPETTA CARAMELLO...............€3,50
 Gelato al fiordilatte con topping al caramello, panna montata e arachidi 
 
 AFFOGATO VENCHI®...............€3,50
-Gelato al fiordilatte, panna montata, cioccolato croccante, topping al cioccolato e Cuba Rhum Venchi®
+Gelato al fiordilatte, panna montata, cioccolato croccante, topping al 
+cioccolato e Cuba Rhum Venchi®
 
 COPPETTA OREO®...............€3,50
-Gelato al fiordilatte con crema di nocciole, crumble di biscotti Oreo®, panna montata, granella di nocciole, topping al cioccolato e biscotto Oreo®
+Gelato al fiordilatte con crema di nocciole, crumble di biscotti Oreo®, 
+panna montata, granella di nocciole, topping al cioccolato e biscotto Oreo®
 
 --- BEVANDE ---
-
-BEVANDE
 
 Vino della casa............... €8 (1L) € 4 (1/2L), € 2 (1/4L)
 
