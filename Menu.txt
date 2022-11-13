@@ -2,18 +2,7 @@
 
 --- MENÙ DI CARNE ---
 
-BEVANDE
 
-Vino della casa............... €8 (1L) € 4 (1/2L), € 2 (1/4L)
-
-Coca-Cola, Sprite, Fanta, Chinotto, Caffè........ € 2 (0,33L)
-
-Acqua, naturale o frizzante........................ €1 (0,5L) 
-
-Birra............................................. €4 (0,66L)
-
-Vino in bottiglia(0,75L)
-Secondo disponibilità, rivolgersi al personale
 
 
 
@@ -42,3 +31,16 @@ Gelato al fiordilatte, panna montata, cioccolato croccante, topping al cioccolat
 
 COPPETTA OREO®...............€3,50
 Gelato al fiordilatte con crema di nocciole, crumble di biscotti Oreo®, panna montata, granella di nocciole, topping al cioccolato e biscotto Oreo®
+
+--- BEVANDE ---
+
+Vino della casa............... €8 (1L) € 4 (1/2L), € 2 (1/4L)
+
+Coca-Cola, Sprite, Fanta, Chinotto, Caffè........ € 2 (0,33L)
+
+Acqua, naturale o frizzante........................ €1 (0,5L) 
+
+Birra............................................. €4 (0,66L)
+
+Vino in bottiglia(0,75L)
+Secondo disponibilità, rivolgersi al personale
