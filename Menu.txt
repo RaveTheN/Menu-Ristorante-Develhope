@@ -1,1 +1,30 @@
 # Menu-Ristorante-Develhope
+
+--- MENÙ DI CARNE ---
+
+--- PRIMI PIATTI ---
+
+Gnocchi alla bava.........................................7€
+
+Gnocchi al castelmagno....................................7€
+
+Agnolotti al sugo di brasato..............................8€
+
+Tortelli di castagne e ricotta............................8€
+
+Risotto pere e gorgonzola.................................9€
+
+Risotto al barbera e gorgonzola..........................10€
+
+BEVANDE
+
+Vino della casa............... €8 (1L) € 4 (1/2L), € 2 (1/4L)
+
+Coca-Cola, Sprite, Fanta, Chinotto, Caffè........ € 2 (0,33L)
+
+Acqua, naturale o frizzante........................ €1 (0,5L) 
+
+Birra............................................. €4 (0,66L)
+
+Vino in bottiglia(0,75L)
+Secondo disponibilità, rivolgersi al personale
