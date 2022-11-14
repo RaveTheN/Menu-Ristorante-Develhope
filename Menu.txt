@@ -2,6 +2,27 @@
 
 ------ MENÙ DI CARNE ------
 
+--- Antipasti ---
+
+Antipasto caldo...........................................5€
+
+I salumi del territorio con lardo di Colonnata............8€
+
+Lardo con crostini........................................6€
+
+Bresaola di toro con rucola selvatica,stracchino 
+e pomodoro candito.......................................10€
+
+Millefoglie di verdure gratinata..........................7€
+
+Muffin di Scottona, Speck, Fontina con Salsa di 
+Parmigiano e Zafferano....................................9€
+
+Polpette di bollito fritte................................9€
+
+Carpaccio con rucola, grana e tartufo, frittatina 
+al tartufo e crostini misti..............................15€
+
 --- PRIMI PIATTI ---
 
 Gnocchi alla bava.........................................7€
@@ -18,59 +39,60 @@ Risotto al barbera e gorgonzola..........................10€
 
 --- SECONDI ---
 
-Tocchetti di canguro con sale grosso e olio ...... € 12 (200g)
+Tocchetti di canguro con sale grosso e olio ........... € 12 (200g)
 
-Hamburger di scottona ............................ € 10 (250g)
+Hamburger di scottona ................................. € 10 (250g)
 
-Hamburger di zembra .............................. € 15 (200g) 
+Hamburger di zembra ................................... € 15 (200g) 
 
-Tagliere di suino (Hamburger, salsiccia e costata) € 16  (200g)
+Tagliere di suino (Hamburger, salsiccia e costata)..... € 16  (200g)
 
-Pancia di suino .................................. € 14 (200g)
+Pancia di suino ....................................... € 14 (200g)
 
 
 --- MENÙ DI DOLCI ---
 
-SOUFFLÈ DUE LUNE...............€5,50
+SOUFFLÈ DUE LUNE........................................€5,50
 Soufflé* al cioccolato, gelato al fiordilatte, cioccolato croccante, 
 topping al cioccolato e granella di nocciole
 
-AMERICAN PANCAKE...............€5,50
+AMERICAN PANCAKE........................................€5,50
 Due soffici pancakes* ricoperti da frutti di bosco* in salsa, sciroppo 
 d'acero, panna montata e zucchero a velo
 
-CHEESECAKE...............€5,50
+CHEESECAKE..............................................€5,50
 Cremosa Cheesecake*, servita con frutti di bosco* in salsa, gelato al 
 fiordilatte, cornachos (tortillas* di grano dorate) e zucchero a velo
 
-COPPA ALASKA...............€5,50
+COPPA ALASKA............................................€5,50
 Gelato al fiordilatte con Nutella®, cioccolato croccante, panna montata, 
 topping al cioccolato e granella di nocciole 
 
-COPPA BAILEYS...............€5,50
+COPPA BAILEYS...........................................€5,50
 Gelato al fiordilatte e cioccolato, Baileys® Irish Cream, panna montata, 
 granella di nocciola e cacao
 
-COPPETTA CARAMELLO...............€3,50
+COPPETTA CARAMELLO......................................€3,50
 Gelato al fiordilatte con topping al caramello, panna montata e arachidi 
 
-AFFOGATO VENCHI®...............€3,50
+AFFOGATO VENCHI®........................................€3,50
 Gelato al fiordilatte, panna montata, cioccolato croccante, topping al 
 cioccolato e Cuba Rhum Venchi®
 
-COPPETTA OREO®...............€3,50
+COPPETTA OREO®..........................................€3,50
 Gelato al fiordilatte con crema di nocciole, crumble di biscotti Oreo®, 
 panna montata, granella di nocciole, topping al cioccolato e biscotto Oreo®
 
 --- BEVANDE ---
 
-Vino della casa............... €8 (1L) € 4 (1/2L), € 2 (1/4L)
+Vino della casa............................... €8 (1L) € 4 (1/2L), € 2 (1/4L)
 
-Coca-Cola, Sprite, Fanta, Chinotto, Caffè........ € 2 (0,33L)
+Coca-Cola, Sprite, Fanta, Chinotto, Caffè.............. € 2 (0,33L)
 
-Acqua, naturale o frizzante........................ €1 (0,5L) 
+Acqua, naturale o frizzante............................ €1 (0,5L) 
 
-Birra............................................. €4 (0,66L)
+Birra.................................................. €4 (0,66L)
 
 Vino in bottiglia(0,75L)
 Secondo disponibilità, rivolgersi al personale
+
